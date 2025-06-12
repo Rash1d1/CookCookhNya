@@ -1,6 +1,6 @@
 [submodule "CookCookhNya-frontend"]
-	path = CookCookhNya-frontend
+	path = frontend
 	url = https://github.com/Endpool/CookCookhNya-frontend
 [submodule "CookCookhNya-backend"]
-	path = CookCookhNya-backend
+	path = backend
 	url = https://github.com/Endpool/CookCookhNya-backend
